@@ -4,8 +4,8 @@ const CTA = () => {
   return (
     <section className='cta'>
       <p className='cta-text'>
-        Ready to join a dynamic team? <br className='sm:block hidden' />
-        Let's collaborate and build something great together!
+        I'm Ready to join a dynamic team, so if you have some freelance project or full time opportunity <br className='sm:block hidden' />
+        Please do reach out to me. Let's collaborate and build something great together!
       </p>
       <Link to='/contact' className='btn'>
         Contact me
