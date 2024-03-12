@@ -20,7 +20,7 @@ const Projects = () => {
         This page showcases a selection of my work, demonstrating my progress
         and the challenges I’ve tackled. While these projects are not
         open-source, they represent my dedication to learning and my journey in
-        software development.
+        software development. Projects here 
       </p>
 
       <div className="flex flex-wrap my-20 gap-16">
@@ -51,24 +51,6 @@ const Projects = () => {
                 >
                   Live Link
                 </Link>
-                <img
-                  src={arrow}
-                  alt="arrow"
-                  className="w-4 h-4 object-contain"
-                />
-                <Link
-                  to={project.codeLink}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="font-semibold text-blue-600"
-                >
-                  Code Link
-                </Link>
-                <img
-                  src={arrow}
-                  alt="arrow"
-                  className="w-4 h-4 object-contain"
-                />
               </div>
             </div>
           </div>
