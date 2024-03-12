@@ -78,7 +78,7 @@ const Contact = () => {
 
       <div className='flex-1 min-w-[50%] flex flex-col'>
         <h1 className='head-text'>Get in Touch</h1>
-        <h3>Test this form - it's live!</h3>
+        <h3>It's live!</h3>
 
 
         <form
