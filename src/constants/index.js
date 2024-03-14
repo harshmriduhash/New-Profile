@@ -201,7 +201,7 @@ export const projects = [
     theme: "btn-back-red",
     name: "Grootin",
     description:
-      "Worked as a freelance developer,  a web application that enables Indie Artist to distribute and monitize their music. The WebApp was build on MERN stack.",
+      "Worked as a freelance developer,  a Web application that enables Indie Artist to distribute and monitize their music. The WebApp was build on MERN stack.",
     link: "https://www.grootin.in/",
   },
 
