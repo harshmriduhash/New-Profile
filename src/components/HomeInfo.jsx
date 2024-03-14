@@ -49,7 +49,7 @@ const HomeInfo = ({ currentStage }) => {
       <div className="info-box">
         <p className="font-medium sm:text-xl text-center">
           You Need a project done or you're hiring for a developer? <br /> I'm
-          just message away
+          just 1 message away
         </p>
 
         <Link to="/contact" className="neo-brutalism-white neo-btn">
