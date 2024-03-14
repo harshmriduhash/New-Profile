@@ -33,8 +33,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className="info-box">
         <p className="font-medium text-center sm:text-xl">
-          Led multiple projects to success <br /> Curious about
-          the impact?
+          Led multiple projects to success <br /> Mentioned some of my projects
         </p>
 
         <Link to="/projects" className="neo-brutalism-white neo-btn">
