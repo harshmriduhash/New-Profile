@@ -183,7 +183,9 @@ export const socialLinks = [
     iconUrl: linkedin,
     link: "https://www.linkedin.com/in/harsh-s-2ab5a0158/",
   },
-];
+
+];  
+
 
 export const projects = [
   {
