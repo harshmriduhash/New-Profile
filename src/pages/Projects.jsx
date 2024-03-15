@@ -15,12 +15,11 @@ const Projects = () => {
       </h1>
 
       <p className="text-slate-500 mt-2 leading-relaxed">
-        In my initial foray into full stack development, I’ve engaged in
-        projects that have allowed me to apply my knowledge and grow my skills.
-        This page showcases a selection of my work, demonstrating my progress
-        and the challenges I’ve tackled. While these projects are not
-        open-source, they represent my dedication to learning and my journey in
-        software development. Projects here 
+        I’ve engaged in projects that have allowed me to apply my knowledge and
+        grow my skills. This page showcases a selection of my work,
+        demonstrating my progress and the challenges I’ve tackled. While these
+        projects are not open-source, they represent my dedication to learning
+        and my journey in software development. Projects here
       </p>
 
       <div className="flex flex-wrap my-20 gap-16">
