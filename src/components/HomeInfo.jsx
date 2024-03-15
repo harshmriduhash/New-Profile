@@ -7,9 +7,9 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
         Hi, I'm
-        <span className="font-semibold mx-2 text-white">Harsh Mriduhash</span>
+        <span className="font-semibold mx-2 text-white">Harsh </span>
         👋
-        <br />Let's fly with me  
+        <br />Let's take a tour of my digital island
       </h1>
     );
 
@@ -33,7 +33,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className="info-box">
         <p className="font-medium text-center sm:text-xl">
-          Have Led multiple Highly scalable and reliable projects to success <br /> Mentioned some of my work
+          Led multiple Highly scalable, reliable projects to success <br /> Mentioned some of my work
         </p>
 
         <Link to="/projects" className="neo-brutalism-white neo-btn">
