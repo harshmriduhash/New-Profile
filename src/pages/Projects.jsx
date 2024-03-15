@@ -17,9 +17,9 @@ const Projects = () => {
       <p className="text-slate-500 mt-2 leading-relaxed">
         I’ve engaged in projects that have allowed me to apply my knowledge and
         grow my skills. This page showcases a selection of my work,
-        demonstrating my progress and the challenges I’ve tackled. While these
-        projects are not open-source, they represent my dedication to learning
-        and my journey. Projects here
+        demonstrating my progress and the challenges I’ve tackled. First 3 are
+        real live application and others are deployed on Netlify/Vercel, they
+        represent my dedication to learning and my journey. Projects here
       </p>
 
       <div className="flex flex-wrap my-20 gap-16">
