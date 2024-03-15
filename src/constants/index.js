@@ -159,7 +159,7 @@ export const experiences = [
     ],
   },
   {
-    title: "Full-Stack Developer",
+    title: "Web Developer",
     company_name: "Freelance",
     icon: Cling,
     iconBg: "#accbe1",
