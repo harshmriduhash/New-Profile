@@ -188,6 +188,7 @@ export const socialLinks = [
 
 
 export const projects = [
+  
   {
     iconUrl: Typing,
     theme: "btn-back-red",
