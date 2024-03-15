@@ -118,7 +118,7 @@ export const skills = [
 
 export const experiences = [
   {
-    title: "Technical Lead & Founding engineer",
+    title: "Technical Lead & Founding Engineer",
     company_name: "Docvita",
     icon: Cling,
     iconBg: "#accbe1",
@@ -191,7 +191,7 @@ export const projects = [
     theme: "btn-back-red",
     name: "Grootin",
     description:
-      "Worked as a freelance developer,  a Web application that enables Indie Artist to distribute and monitize their music. The WebApp was build on MERN stack.",
+      "Grootin Music Entertainment is a rapidly growing music and entertainment company that is focused on creating a unique and personalized experience for music lovers. We are on a mission to revolutionize the music industry with cutting-edge technology and innovative strategies.",
     link: "https://www.grootin.in/",
   },
 
@@ -208,16 +208,16 @@ export const projects = [
     theme: "btn-back-blue",
     name: "Railofy",
     description:
-      " I created a digital asset online marketplace called DigitalHippo. I used Payload2, a headless CMS and application framework, to build an admin page where sellers can add their products and receive verification emails. I also integrated Stripe, a payment processing platform, to accept payments and generate order slips. I added many other features to enhance the functionality and user experience of the marketplace.",
+      "Railofy is a travel tech start-up and an IRCTC Authorized Premium Partner with the mission to transform the train travel experience for Bharat! Our services include:-  1. Hotplate, 2. Train ticket booking, 3. Confirm Guarantee, 4. Whatsapp Bot",
     link: "https://www.railofy.com/",
   },
   {
     iconUrl: Blog,
     theme: "btn-back-pink",
-    name: "Blogify - Full stack Blog application.",
+    name: "MusicApp.",
     description:
-      "I built a full-stack blog application using Appwrite, a self-hosted backend server that provides various features such as authentication, real time slug making and more. Users can view and edit their posts with TinyMCE, a rich text editor that offers a user-friendly content creation experience. Users can also create and update their post slugs in real-time, similar to Hashnode, a blogging platform for developers..",
-    link: "https://65edb98beb260c00089fba39--voluble-cocada-701b24.netlify.app/",
+      "A sophisticated music app tailored for offline use, designed to elevate your listening experience. Offering intuitive navigation and seamless playback, this system app ensures that users can indulge in their favorite tunes anytime, anywhere. Dive into the world of personalized music enjoyment with this innovative MERN-based music app, a testament to my dedication to crafting user-centric solutions in full-stack development.",
+    link: "https://music-app-q1el-qd7ral9ca-harshs-projects-76ae4797.vercel.app/",
     codeLink: "https://github.com/devkumar4/MegaBlog",
   },
   {

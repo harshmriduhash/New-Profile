@@ -19,7 +19,7 @@ const Projects = () => {
         grow my skills. This page showcases a selection of my work,
         demonstrating my progress and the challenges I’ve tackled. While these
         projects are not open-source, they represent my dedication to learning
-        and my journey in software development. Projects here
+        and my journey. Projects here
       </p>
 
       <div className="flex flex-wrap my-20 gap-16">
