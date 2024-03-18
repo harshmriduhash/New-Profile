@@ -118,6 +118,21 @@ export const skills = [
 
 export const experiences = [
   {
+    title: "Freelance Full stack Developer",
+    company_name: "Grootin",
+    icon: Cling,
+    iconBg: "#accbe1",
+    date: "2023 - Present",
+    points: [
+      "Currently working as a freelence developer at at MusicTech company. Building the product on MERN stack from scratch",
+      "Build the entire architecture of the product while working directly with Founder",
+      "A platform that is focused on creating a unique and personalized experience for music lovers.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Helping in shaping the company and product roadmap"
+    ],
+  },
+  
+  {
     title: "Technical Lead & Founding Engineer",
     company_name: "Docvita",
     icon: Cling,
@@ -140,7 +155,7 @@ export const experiences = [
     points: [
       "Developing and maintaining web applications using React.js and other trendy related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality webapplication",
-      "Deciding the frontend architecture, and building the scalable application",
+      "Deciding the frontend architecture and building the scalable application",
       "Document and demonstrate solutions by developing documentation, flowcharts, layouts, charts, code comments and clear code.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -156,11 +171,12 @@ export const experiences = [
       "After finalizing the design of frontend, Used React.js for making web pages.",
       "Became the founding engineer in the company",
       "Participating in code reviews and providing constructive feedback to other developers.",
+      "Gained Familiarity with RESTful APIs & popular React.js workflows (such as Redux/Flux)",
     ],
   },
   {
     title: "Web Developer",
-    company_name: "Freelance",
+    company_name: "Inwara",
     icon: Cling,
     iconBg: "#accbe1",
     date: "2018 - 2019",
@@ -169,6 +185,7 @@ export const experiences = [
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+      "Gained Strong proficiency in HTML/CSS, JavaScript, DOM manipulation & JavaScript object model",
     ],
   },
 ];
@@ -201,7 +218,7 @@ export const projects = [
     theme: "btn-back-green",
     name: "Docvita",
     description:
-      "A web based chat application in healthcare sector. Rebuild the architecture of the product, made it more secure and reliable. I used S3 for image upload functionality, Google OAuth for authentication, and Redis for caching and performance optimization. I also used TypeScript for back-end development.",
+      "A web based chat application in healthcare sector. Rebuild the architecture of the product, made it more secure and reliable. I used S3 for image upload functionality, Google OAuth for authentication, and Redis for caching and performance optimization.",
     link: "https://docvita.com/",
   },
   {
@@ -213,30 +230,20 @@ export const projects = [
     link: "https://www.railofy.com/",
   },
   {
+    iconUrl: Hippo,
+    theme: "btn-back-blue",
+    name: "Zury",
+    description:
+      "A Health and wellness platform for women Who are going through PcOS. Currently in India 2 out of 5 women are going through PCOS and globally the number is growing.",
+    link: "https://www.zury.in/",
+  },
+  {
     iconUrl: Blog,
     theme: "btn-back-pink",
     name: "MusicApp.",
     description:
-      "A sophisticated music app tailored for offline use, designed to elevate your listening experience. Offering intuitive navigation and seamless playback, this system app ensures that users can indulge in their favorite tunes anytime, anywhere. Dive into the world of personalized music enjoyment with this innovative MERN-based music app, a testament to my dedication to crafting user-centric solutions in full-stack development.",
+      "A sophisticated music app tailored for offline use, designed to elevate your listening experience. Offering intuitive navigation and seamless playback, this system app ensures that users can indulge in their favorite tunes anytime, anywhere.",
     link: "https://music-app-q1el-qd7ral9ca-harshs-projects-76ae4797.vercel.app/",
     codeLink: "https://github.com/devkumar4/MegaBlog",
-  },
-  {
-    iconUrl: Ecommerce,
-    theme: "btn-back-black",
-    name: "Eclatique E-commerce men's store",
-    description:
-      "I built an e-commerce platform for men’s fashion called Eclatique. I used React.js, TypeScript, JWT, and Redux to create the front-end and back-end of the application. I added features such as login, sign up, cart, order tracking, and Stripe payment gateway. I used JWT for authentication and authorization, and Redux for state management. I use express.js for making REST ful API's design",
-    link: "https://github.com/devkumar4/Eclatique",
-    codeLink: "https://github.com/devkumar4/Eclatique",
-  },
-  {
-    iconUrl: Spotify,
-    theme: "btn-back-yellow",
-    name: "Small Spotify Clone",
-    description:
-      "I created a web application that replicates the core functionality of the popular music streaming service Spotify. Users can play songs and tracks from various genres and artists. I used HTML5, CSS3, and vanilla JavaScript to build the front-end of the application. I used Bootstrap for styling and responsive design.",
-    link: "https://devspotify.netlify.app/",
-    codeLink: "https://github.com/devkumar4/spotify-clone",
   },
 ];

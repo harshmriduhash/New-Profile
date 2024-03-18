@@ -24,7 +24,9 @@ const About = () => {
         <p>
           MERN stack based in India, specializing in building products from
           scratch and scaling it to handle loads of users. Making it more
-          reliable and performance optimised
+          reliable and performance optimised. 6 years of experience in taking
+          businesses from O to 1. With an excellent way ofstorytelling through
+          my technical expertise.
         </p>
       </div>
 
@@ -52,9 +54,9 @@ const About = () => {
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
             I've worked with multiple startups in different domains and sector
-            such as TravelTech, MusicTech, TeleHealth. Over the years added
-            multiple tech stack such as MERN, TypeScript, Next.js, AWS Here's
-            the rundown:
+            such as TravelTech, MusicTech, TeleHealth. while working with them i
+            have gained hands on experience on multiple tech stack such as MERN,
+            TypeScript, Next.js, AWS Here's the rundown:
           </p>
         </div>
 
