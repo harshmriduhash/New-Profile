@@ -243,7 +243,6 @@ export const projects = [
     name: "MusicApp.",
     description:
       "A sophisticated music app tailored for offline use, designed to elevate your listening experience. Offering intuitive navigation and seamless playback, this system app ensures that users can indulge in their favorite tunes anytime, anywhere.",
-    link: "https://music-app-q1el-qd7ral9ca-harshs-projects-76ae4797.vercel.app/",
-    codeLink: "https://github.com/devkumar4/MegaBlog",
+    link: "https://songvibe.netlify.app/",
   },
 ];
