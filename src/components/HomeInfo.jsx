@@ -50,7 +50,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className="info-box">
         <p className="font-medium sm:text-xl text-center">
-          Do You Need a project done or you're hiring for a developer? <br />{" "}
+          If You Need a project done or you're hiring for a developer? <br />{" "}
           I'm I'm just a message away
         </p>
 
