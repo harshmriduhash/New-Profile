@@ -118,13 +118,13 @@ export const skills = [
 
 export const experiences = [
   {
-    title: "Freelance Full stack Developer",
+    title: "Full stack Developer",
     company_name: "Grootin",
     icon: Cling,
     iconBg: "#accbe1",
     date: "2023 - Present",
     points: [
-      "Currently working as a freelence developer at at MusicTech company. Building the product on MERN stack from scratch",
+      "Currently working at MusicTech company. Building the product on MERN stack from scratch",
       "Build the entire architecture of the product while working directly with Founder",
       "A platform that is focused on creating a unique and personalized experience for music lovers.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
