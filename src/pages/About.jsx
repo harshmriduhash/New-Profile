@@ -25,7 +25,7 @@ const About = () => {
           MERN stack Developer, specialized in building products from scratch
           and scaling it to handle loads of users. Making it more reliable and
           optimised for higher performance. 6 years of experience in taking
-          businesses from O to 1. With an excellent way ofstorytelling through
+          businesses from O to 1. With an excellent way of storytelling through
           my technical expertise.
         </p>
       </div>
