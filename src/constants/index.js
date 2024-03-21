@@ -22,7 +22,6 @@ import {
   aws,
   postgreSQL,
   redis,
-  prisma,
   Twitter,
   Typing,
   Hippo,
