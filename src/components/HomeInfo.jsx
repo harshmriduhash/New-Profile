@@ -63,5 +63,4 @@ const HomeInfo = ({ currentStage }) => {
 
   return null;
 };
-
 export default HomeInfo;
