@@ -24,7 +24,7 @@ const About = () => {
           businesses from zero to one. An excellent way of storytelling through
           my technical expertise. I'm Specialized in building products from
           scratch and scaling it to handle loads of users. Making it more
-          reliable and optimised for higher performance.
+          reliable & optimised for higher performance.
         </p>
       </div>
 
