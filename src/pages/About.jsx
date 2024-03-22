@@ -2,10 +2,8 @@ import {
   VerticalTimeline,
   VerticalTimelineElement,
 } from "react-vertical-timeline-component";
-
 import { CTA } from "../components";
 import { experiences, skills } from "../constants";
-
 import "react-vertical-timeline-component/style.min.css";
 
 const About = () => {
@@ -23,10 +21,10 @@ const About = () => {
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
           MERN stack Developer with 6 years of experience in taking businesses
-          from zero to 1. An excellent way of storytelling through my technical
-          expertise. Specialized in building products from scratch and scaling
-          it to handle loads of users. Making it more reliable and optimised for
-          higher performance.
+          from zero to one. An excellent way of storytelling through my
+          technical expertise. Specialized in building products from scratch and
+          scaling it to handle loads of users. Making it more reliable and
+          optimised for higher performance.
         </p>
       </div>
 
@@ -56,8 +54,8 @@ const About = () => {
             I Have worked with multiple startups in different domains/sector
             such as TravelTech, MusicTech, Healthcare. while working with them i
             have gained hands on experience on multiple tech stack such as
-            JavaScript, MERN, TypeScript, Next.js, React Native, Flutter,
-            Python, Django, Java, Golang, AWS Here's the rundown:-
+            JavaScript, MERN, TypeScript, Next.js, React Native, Flutter, AWS
+            Here's the rundown:-
           </p>
         </div>
 
