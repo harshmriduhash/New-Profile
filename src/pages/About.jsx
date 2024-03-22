@@ -22,9 +22,9 @@ const About = () => {
         <p>
           MERN stack Developer with almost 6 years of experience in taking
           businesses from zero to one. An excellent way of storytelling through
-          my technical expertise. Specialized in building products from scratch
-          and scaling it to handle loads of users. Making it more reliable and
-          optimised for higher performance.
+          my technical expertise. I'm Specialized in building products from
+          scratch and scaling it to handle loads of users. Making it more
+          reliable and optimised for higher performance.
         </p>
       </div>
 
