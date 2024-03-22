@@ -53,9 +53,9 @@ const About = () => {
         <h3 className="subhead-text">Work Experience.</h3>
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
-            I have worked with multiple startups in different domains/sector
-            such as TravelTech, MusicTech, Healthcare. while working with them i
-            have gained hands on experience on multiple tech stack such as
+            Have worked with multiple startups in different domains/sector such
+            as TravelTech, MusicTech, Healthcare. while working with them i have
+            gained hands on experience on multiple tech stack such as
             JavaScript, MERN, TypeScript, Next.js, AWS Here's the rundown:-
           </p>
         </div>
