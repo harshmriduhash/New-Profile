@@ -55,7 +55,7 @@ const About = () => {
             such as TravelTech, MusicTech, Healthcare. while working with them i
             have gained hands on experience on multiple tech stack such as
             JavaScript, MERN, TypeScript, Next.js, React Native, Flutter, System
-            Design, AWS Here's the rundown:-
+            Design, AWS. Here's the rundown:-
           </p>
         </div>
 
