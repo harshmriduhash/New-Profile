@@ -127,7 +127,6 @@ export const experiences = [
       "Building the product for companies to close their open positions close in24 hours",
       "Build the entire architecture of the product while working directly with Founders",
       "A platform that is focused on creating a unique and personalized experience for Job Seekers to make their job search easy.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
       "Helping in shaping the company and product roadmap",
       "Currently working on to scale the 2K RPM to 8k RPM",
     ],
