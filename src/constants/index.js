@@ -210,7 +210,7 @@ export const projects = [
     theme: "btn-back-red",
     name: "Goodspace.AI",
     description:
-      "Goodspace.AI is a rapidly growing HR and entertainment company that is focused on creating a unique and personalized experience for Job seekers. We are on a mission to revolutionize the HR industry with cutting-edge AI technology and innovative strategies.",
+      "Goodspace.AI is a rapidly growing HR and Recruitment company that is focused on creating a unique and personalized experience for Job seekers. We are on a mission to revolutionize the HR industry with cutting-edge AI technology and innovative strategies.",
     link: "https://www.goodspace.ai/",
   },
   {
