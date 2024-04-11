@@ -118,7 +118,7 @@ export const skills = [
 export const experiences = [
   {
     title: "Full stack Developer",
-    company_name: "",
+    company_name: "Goodspace.AI",
     icon: Cling,
     iconBg: "#accbe1",
     date: "2023 - Present",
