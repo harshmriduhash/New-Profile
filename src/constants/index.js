@@ -121,7 +121,7 @@ export const experiences = [
     company_name: "Goodspace.AI",
     icon: Cling,
     iconBg: "#accbe1",
-    date: "2023 - Present",
+    date: "2024 - Present",
     points: [
       "Currently working at MusicTech company. Building the product on MERN stack from scratch",
       "Build the entire architecture of the product while working directly with Founder",
