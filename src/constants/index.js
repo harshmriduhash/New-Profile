@@ -208,7 +208,7 @@ export const projects = [
   {
     iconUrl: Typing,
     theme: "btn-back-red",
-    name: "Grootin",
+    name: "Goodspace.AI",
     description:
       "Grootin Music Entertainment is a rapidly growing music and entertainment company that is focused on creating a unique and personalized experience for music lovers. We are on a mission to revolutionize the music industry with cutting-edge technology and innovative strategies.",
     link: "https://www.grootin.in/",
