@@ -124,8 +124,8 @@ export const experiences = [
     date: "2024 - Present",
     points: [
       "Currently working at HR-Tech company. Building the product on MERN stack from scratch",
-      "Build the entire architecture of the product while working directly with Founder",
-      "A platform that is focused on creating a unique and personalized experience for music lovers.",
+      "Build the entire architecture of the product while working directly with Founders",
+      "A platform that is focused on creating a unique and personalized experience for Job Seekers .",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Helping in shaping the company and product roadmap"
     ],
