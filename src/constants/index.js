@@ -117,7 +117,7 @@ export const skills = [
 
 export const experiences = [
   {
-    title: "Senior Software E",
+    title: "Senior Software Engineer",
     company_name: "Goodspace.AI",
     icon: Cling,
     iconBg: "#accbe1",
