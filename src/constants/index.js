@@ -213,7 +213,6 @@ export const projects = [
       "Goodspace.AI is a rapidly growing music and entertainment company that is focused on creating a unique and personalized experience for Job seekers. We are on a mission to revolutionize the HR industry with cutting-edge AI technology and innovative strategies.",
     link: "https://www.goodspace.ai/",
   },
-
   {
     iconUrl: threads,
     theme: "btn-back-green",
