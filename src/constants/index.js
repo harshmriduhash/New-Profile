@@ -136,7 +136,7 @@ export const experiences = [
     company_name: "Docvita",
     icon: Cling,
     iconBg: "#accbe1",
-    date: "2022 - 2023",
+    date: "2022 - 2024",
     points: [
       "Build the entire architecture of the product while working directly with CTO",
       "Demonstrated ability to build scalable, reliable and secured WebApp and deploy on AWS with microservices architecture.",
