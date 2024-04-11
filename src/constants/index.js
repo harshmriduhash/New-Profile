@@ -125,7 +125,7 @@ export const experiences = [
     points: [
       "Currently working at HR-Tech company. Building the product on MERN stack from scratch",
       "Build the entire architecture of the product while working directly with Founders",
-      "A platform that is focused on creating a unique and personalized experience for Job Seekers to.",
+      "A platform that is focused on creating a unique and personalized experience for Job Seekers to make their.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Helping in shaping the company and product roadmap",
       "Currently working on to scale the 2K RPM to 8k RPM"
