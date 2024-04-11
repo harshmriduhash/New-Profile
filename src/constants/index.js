@@ -211,7 +211,7 @@ export const projects = [
     name: "Goodspace.AI",
     description:
       "Goodspace.AI is a rapidly growing music and entertainment company that is focused on creating a unique and personalized experience for Job seekers. We are on a mission to revolutionize the music industry with cutting-edge technology and innovative strategies.",
-    link: "https://www.goodspace.in/",
+    link: "https://www.goodspace.ai/",
   },
 
   {
