@@ -21,8 +21,8 @@ const About = () => {
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
           A MERN stack Developer with 6 years of experience in taking
-          businesses from zero to one. An excellent way of storytelling through
-          my technical expertise. I'm Specialized in building products from
+          businesses from zero to one. I believe in storytelling through
+          my technical expertise, I'm Specialized in building products from
           scratch and scaling it to handle loads of users. Making it more
           reliable, secured & optimized it for higher performance
         </p>
