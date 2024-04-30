@@ -20,11 +20,11 @@ const About = () => {
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
-          A full stack Developer with 6 years of experience in taking
-          businesses from zero to one. I believe in storytelling through
-          my technical expertise, I'm Specialized in building products from
-          scratch and scaling it to handle loads of users. Making it more
-          reliable, secured & optimized it for higher performance
+          A full stack Developer with 6 years of experience in taking businesses
+          from zero to one. I believe in storytelling through my technical
+          expertise, I'm Specialized in building products from scratch and
+          scaling it to handle loads of users. Making it more reliable, secured
+          & optimized it for higher performance
         </p>
       </div>
 
@@ -54,8 +54,9 @@ const About = () => {
             I Have worked with multiple startups in different domains/sector
             such as TravelTech, MusicTech, Healthcare. while working with them i
             have gained hands on experience on multiple tech stack such as
-            JavaScript, React.js, Node.js, Express.js MongoDB, TypeScript, Next.js, Vector-Embeddings, Pinecone, Generative-AI, System
-            Design, AWS. Here's the rundown:-
+            JavaScript, React.js, Node.js, Express.js MongoDB, TypeScript,
+            Next.js, Vector-Embeddings, Pinecone, Generative-AI, System Design,
+            AWS. Here's the rundown:-
           </p>
         </div>
 
