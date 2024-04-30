@@ -54,7 +54,7 @@ const About = () => {
             I Have worked with multiple startups in different domains/sector
             such as TravelTech, MusicTech, Healthcare. while working with them i
             have gained hands on experience on multiple tech stack such as
-            JavaScript, React.js TypeScript, Next.js, React Native, Flutter, System
+            JavaScript, React.js, node.js TypeScript, Next.js, React Native, Flutter, System
             Design, AWS. Here's the rundown:-
           </p>
         </div>
