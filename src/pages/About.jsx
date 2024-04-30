@@ -52,7 +52,7 @@ const About = () => {
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
             I Have worked with multiple startups in different domains/sector
-            such as TravelTech, MusicTech, Healthcare. while working with them i
+            such as TravelTech, MusicTech, Healthcare and now AI. while working with them i
             have gained hands on experience on multiple tech stack such as
             JavaScript, React.js, Node.js, Express.js MongoDB, TypeScript,
             Next.js, Vector-Embeddings, Pinecone, Generative-AI, System Design,
