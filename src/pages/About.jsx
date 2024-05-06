@@ -81,8 +81,7 @@ const About = () => {
                   borderStyle: "solid",
                   borderBottomColor: experience.iconBg,
                   boxShadow: "none",
-                }}
-              >
+                }}              >
                 <div>
                   <h3 className="text-black text-xl font-poppins font-semibold">
                     {experience.title}
