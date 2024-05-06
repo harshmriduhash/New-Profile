@@ -59,7 +59,6 @@ const About = () => {
             AWS. Here's the rundown:-
           </p>
         </div>
-
         <div className="mt-12 flex">
           <VerticalTimeline>
             {experiences.map((experience, index) => (
